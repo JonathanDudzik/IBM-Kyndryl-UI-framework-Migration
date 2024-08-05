@@ -1,0 +1,3 @@
+# Project description
+                    
+One thing I really enjoy doing is applying servant leadership, project management, and web development skills into my daily work; that is exactly what I got to do in this project! At Kyndryl, there was a high-profile initiative to replace the deeply ingrained IBM UI framework, named Carbon, with a new in-house developed UI framework, Shidoka. This would change the way our frontends looked and help establish Kyndryl's distinct visual identity after its separation from IBM.
